@@ -1,3 +1,5 @@
 open
+.android studio
+.intellij idea
 set graddle
 set repo
