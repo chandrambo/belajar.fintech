@@ -3,3 +3,6 @@ open
 .intellij idea
 set graddle
 set repo
+.ambil dari git
+.ambil dari petani koding
+save ajaa sis
